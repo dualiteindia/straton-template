@@ -35,4 +35,3 @@ export const CTASection = () => (
     <CTASectionContent />
   </section>
 );
-

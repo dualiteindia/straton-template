@@ -530,4 +530,3 @@ export const Home = () => {
 
   return <FrameContainer frames={frames} parentClassName="animate-fade-in" />;
 };
-

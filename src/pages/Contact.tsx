@@ -102,4 +102,3 @@ export const Contact = () => {
 
   return <FrameContainer frames={frames} parentClassName="animate-fade-in" />;
 };
-
